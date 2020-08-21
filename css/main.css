@@ -1,0 +1,29 @@
+body {
+    background-color:black;
+    margin: auto;
+    width: 788px;
+    height: 700;
+}
+main{
+    background-color: rgba(0, 174, 255, 0.945);
+    height: 1000px;
+}
+.perfil{
+    position: relative;
+    bottom: 254px;
+    left: 27px;
+}
+.cosmo-rodrigues{
+    position: relative;
+    bottom: 245px;
+    left: 24px;
+}
+.trybe{
+    position: relative;
+    left: 530px;
+    bottom: 278px;
+}
+.about-me{
+    position: relative;
+    bottom: 669px;
+}
