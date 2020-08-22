@@ -1,29 +1,32 @@
-body {
-    background-color:black;
-    margin: auto;
-    width: 788px;
-    height: 700;
+body{
+font-family: sans-serif;
+font-size: 20px;
+background-color: black;
+width="1300px"
 }
-main{
-    background-color: rgba(0, 174, 255, 0.945);
-    height: 1000px;
+.top-side{
+background-color: black;
 }
-.perfil{
-    position: relative;
-    bottom: 254px;
-    left: 27px;
+.left-side{
+background-color: rgb(0, 174, 255);
 }
-.cosmo-rodrigues{
-    position: relative;
-    bottom: 245px;
-    left: 24px;
+.right-side{
+    background-color: rgb(0, 174, 255);
 }
-.trybe{
-    position: relative;
-    left: 530px;
-    bottom: 278px;
+.click-btn{    
+  color: white;
+  padding: 9px 12px;
+  border-radius: 10px;
+  font-weight: 700;
+  text-decoration: none;
 }
-.about-me{
-    position: relative;
-    bottom: 669px;
+.btn-color{
+    background: white;
+  color:blue;
+  box-shadow:0 2px 0 blue;    
+}
+a{
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
 }
