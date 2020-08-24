@@ -29,4 +29,10 @@ a{
   color: white;
   font-weight: 700;
   text-decoration: none;
+  border-radius: 12px;
+}
+a:hover{
+  background-color: green;
+  color: black;
+  transition: 0.3s;
 }
